@@ -1,6 +1,6 @@
 # Credits
 
-This repository is customized and maintained based on [BtbN/FFmpeg-Builds](https://github.com). All original compilation scripts and patches belong to the upstream authors.
+This repository is customized and maintained based on [BtbN/FFmpeg-Builds](https://github.com/btbn/FFmpeg-Builds). All original compilation scripts and patches belong to the upstream authors.
 
 # Why this customization?
 Although the upstream project claims to target Windows 7, its recent updates practically require Windows 10 or newer, making it no longer work on Windows 7. 
